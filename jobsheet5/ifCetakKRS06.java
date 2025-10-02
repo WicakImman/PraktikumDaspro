@@ -15,6 +15,6 @@ public class ifCetakKRS06 {
         } else {
             System.out.println("Registrasi ditolak. Silahkan lunasi UKT terlebih dahulu");
         }
-
+        sc.close();
     }   
     }
